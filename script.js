@@ -1,3 +1,4 @@
+// @language=javascript
 const allElements = document.querySelectorAll("body *");
 
 let arr = [];
